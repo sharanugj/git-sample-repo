@@ -1,0 +1,10 @@
+git status
+git init
+git cinfig --global user.name "Let's Kode It"
+git congit -- gloal user.email "lertskodeit@gmail.com"
+git cinfig user.name "Let's Kode It"
+git congit user.email lertskodeit@gmail.com
+gt add
+git commit -""
+git log
+Git giff <filename>
