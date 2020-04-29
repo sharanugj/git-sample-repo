@@ -1,0 +1,18 @@
+git status ->print status - long RND
+git init -> 
+init repo
+
+git cinfig --global user.name "sharana"
+
+git congit --gloal user.email sharana@gmail.com
+
+git cinfig user.name "sharana"
+
+git congit user.email sharana@gmail.com
+gt add
+
+git commit -m "<Enter Comments>"
+
+git log <filename>
+git giff <filename>
+git clone <Repository path>
