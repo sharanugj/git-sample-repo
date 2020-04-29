@@ -1,5 +1,5 @@
 git status ->print status
-git init
+git init -> init repo
 git cinfig --global user.name "sharana"
 git congit --gloal user.email sharana@gmail.com
 git cinfig user.name "sharana"
